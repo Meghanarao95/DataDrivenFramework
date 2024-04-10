@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-09T18:23:23 PST" name="Default suite" finished-at="2024-02-09T18:23:35 PST" duration-ms="12009">
+    <groups>
+    </groups>
+    <test started-at="2024-02-09T18:23:23 PST" name="Default test" finished-at="2024-02-09T18:23:35 PST" duration-ms="12009">
+      <class name="TestCases.LoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestCases.LoginTest@56102e1c]" started-at="2024-02-09T18:23:12 PST" name="setUp" finished-at="2024-02-09T18:23:23 PST" duration-ms="10743" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginAsBankManager()[pri:0, instance:TestCases.LoginTest@56102e1c]" started-at="2024-02-09T18:23:23 PST" name="loginAsBankManager" finished-at="2024-02-09T18:23:35 PST" duration-ms="11954" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAsBankManager -->
+        <test-method is-config="true" signature="teadDown()[pri:0, instance:TestCases.LoginTest@56102e1c]" started-at="2024-02-09T18:23:35 PST" name="teadDown" finished-at="2024-02-09T18:23:35 PST" duration-ms="108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teadDown -->
+      </class> <!-- TestCases.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
